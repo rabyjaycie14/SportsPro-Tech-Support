@@ -8,6 +8,17 @@ The following verbiage is in direct reference from the following textbook:
   - Published October 2017
   - ISBN 978-1-943872-38-1
 
+## DISCLAIMER:
+-----
+ - This course project required a team of 2; therefore, the following parts of this project were completed by myself, and
+ the rest by my partner.
+  1. Project 6-2 - Manage Technicians
+  2. Project 6-4 - Register Product
+  3. Project 6-5 - Create Incident
+  
+ - Also, a skeleton of this project was presented *to* us by the Professor, and portions of the project were written by
+ neither myself, nor my partner. (I.e. tech_support.sql, for instance)
+
 # Introduction
 -----
 - The projects in this document let you apply the programming skills you learn in
